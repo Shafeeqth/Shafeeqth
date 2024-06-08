@@ -1,8 +1,16 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+ <br/> [![](https://visitcount.itsvg.in/api?id=Shafeeqth&icon=0&color=0)](https://visitcount.itsvg.in)  <br/>
+
+
 <h1 align="center">Hi 👋, I'm Muhammed Shafeeque TH</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3> 
+
+
 
 <h3 align="start">Connect Me.. 🤝</h3>
+
+ 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ce9mdpYJ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-shafeeque-th-473675265) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mhd-Shafeeq-6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23044437) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Md_shafeeque_th) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shafeeqsha2563) <br/>  <br/>
 
@@ -23,6 +31,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shafeeqth&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
